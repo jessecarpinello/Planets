@@ -1,0 +1,18 @@
+1. Clone an online repository --> git clone link_to_url name_of_directory
+
+2. Make changes to project
+
+3. Stage changes for commit --> git add_names_of_files_
+
+4. Commit the changes to repository history --> git commit -m "helpful message"
+
+5. Push latest version of local repository to online GitHub repository --> git push origin master
+
+-------------------------------------------
+
+6. Pull form online repository before beginning work again --> git pull origin master
+
+7. Repeat from Step 2.
+
+-------------------------------------------
+
